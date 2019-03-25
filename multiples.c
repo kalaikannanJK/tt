@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-int main()
+void main()
 {
 	int mul=0,n,i;
 	printf("enter number:");
